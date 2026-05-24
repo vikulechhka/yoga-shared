@@ -4,7 +4,7 @@ import (
     "net/http"
     "time"
 
-    "github.com/yogastudio/yoga-shared/logger"
+    "github.com/vikulechhka/yoga-shared/logger"
     "go.uber.org/zap"
 )
 

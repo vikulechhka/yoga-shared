@@ -3,8 +3,8 @@ package middleware
 import (
     "net/http"
 
-    "github.com/yogastudio/yoga-shared/logger"
-    "github.com/yogastudio/yoga-shared/response" 
+    "github.com/vikulechhka/yoga-shared/logger"
+    "github.com/vikulechhka/yoga-shared/response" 
     "go.uber.org/zap"
 )
 

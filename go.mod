@@ -1,4 +1,4 @@
-module github.com/yogastudio/yoga-shared
+module github.com/vikulechhka/yoga-shared
 
 go 1.25.0
 
